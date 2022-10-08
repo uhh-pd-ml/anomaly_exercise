@@ -25,4 +25,4 @@ There are two ways this exercise can be run:
 
 ## Solutions
 
-We also provide solutions to this exercise. These can be found in another Colab notebook under this [Link](https://colab.research.google.com/drive/1yHxu-26hIOlGhOqKLO4O6aUvz4JDWyYq?usp=sharing), or as another `ipynb` notebook, which is located in the `solutions` branch of this repository.
+We also provide solutions to this exercise. These can be found in another Colab notebook under this [Link](https://colab.research.google.com/drive/1yHxu-26hIOlGhOqKLO4O6aUvz4JDWyYq?usp=sharing), or as another `ipynb` notebook, which is located in the `solution` branch of this repository.
