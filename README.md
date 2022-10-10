@@ -25,6 +25,8 @@ There are two ways this exercise can be run:
 - `h5py`
 - `vector`
 
+**Note:** It is highly recommended to run this exercise using a **GPU** if available. To use a GPU in Colab, klick `Runtime->Change runtime type` and choose `GPU` from the drop-down list under `Hardware accelerator`.
+
 ## Solutions
 
 We also provide solutions to this exercise. These can be found in another Colab notebook under this [Link](https://colab.research.google.com/drive/1yHxu-26hIOlGhOqKLO4O6aUvz4JDWyYq?usp=sharing), or as another `ipynb` notebook, which is located in the `solution` branch of this repository.
