@@ -1,6 +1,8 @@
 # anomaly_exercise
 Exercise on Anomaly Detection in Particle Physics for the 3rd Terascale School of Machine Learning.
 
+ Authors: [Gregor Kasieczka](https://github.com/gkasieczka), [Louis Moureaux](https://github.com/lmoureaux), [Tobias Quadfasel](https://github.com/loeschet) and [Manuel Sommerhalder](https://github.com/msommerh) (University of Hamburg).
+
 ## Contents
 
 - general introduction about anomaly detection, patricularly in a Particle Physics context
